@@ -3,10 +3,10 @@
       <section class="">
         <div class="container is-fluid">
 
-                <p class="subtitle">
                 <label class="checkbox">
-                    <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
+                    <input type="checkbox" v-if="this.recipe" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
                 </label>
+                <p class="subtitle titleadjust" v-if="this.recipe">
                  {{ this.recipe.title }}
                 </p>
                 <p> <strong>Process</strong> </p>
@@ -63,3 +63,17 @@ export default {
    
 }
 </script>
+
+<style scoped>
+.checkbox{
+    float: left;
+    clear: none;
+    margin-top: 10px;
+}
+
+.titleadjust{
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+</style>

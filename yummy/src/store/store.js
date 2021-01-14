@@ -41,12 +41,34 @@ export default function makeStore(){
 
         mutations: {
 
+            updateFromLocal(state){
+                const local_store = JSON.parse(window.localStorage.getItem('store'));
+                console.log(local_store);
+                console.log(lodash.get(local_store, 'recipes'));
+
+
+                console.log("import from local")
+                state.recipes = lodash.get(local_store, 'recipes', []);
+                state.active = lodash.get(local_store, 'active', {});
+                state.list = lodash.get(local_store, 'list', {});
+                
+                console.log(state.recipes)
+                
+                for (let i = 0; i < state.recipes.length; i++) {
+                    console.log("local", i, state.recipes[i]['id'], state.recipes[i]['active']);
+                }
+
+
+            },
+
             updateRecipes (state, data){
                 
                 // Add missing information
                 for (let i = 0; i < data.length; i++) {
                     data[i]['id'] = i;
-                    data[i]['active'] = false;
+                    const tmp = lodash.get(lodash.get(state, i, {}), 'active', false);
+                    console.log(i, data[i]['id'], tmp);
+                    data[i]['active'] = tmp;
                     state.active[data[i]['id']] = data[i]['active'];
                 }
                 state.recipes = data;
@@ -78,9 +100,9 @@ export default function makeStore(){
 
                 state.list = combined
             
-                
-                // const tmp = JSON.stringify(state);
-                // window.localStorage.setItem('store', tmp);
+                const tmp = JSON.stringify(state);
+                window.localStorage.setItem('store', tmp);
+                console.log("set state");
             },
 
             updateShoppingList (state, recipe){
@@ -112,6 +134,10 @@ export default function makeStore(){
                 }
 
                 state.list = combined
+
+                const tmp = JSON.stringify(state);
+                window.localStorage.setItem('store', tmp);
+                console.log("set state");
             },
 
             toggleShoppingList (state, key){
@@ -123,6 +149,7 @@ export default function makeStore(){
         actions: {
 
             fetchRecipes({ commit }, { url, callback })  {    
+
                 Vue.http.get(url)
                     .then(function(response){
                         commit("updateRecipes", response.body);
@@ -132,6 +159,12 @@ export default function makeStore(){
                         console.log(error);
                     });
             },
+
+            fetchLocalStorage({commit}){
+                commit("updateFromLocal");
+            }
+
+
         }
 
 

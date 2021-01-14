@@ -25,6 +25,10 @@
 <script>
 export default {
 
+  created(){
+    this.$store.dispatch("fetchLocalStorage");
+  },
+
   mounted() {
     this.$store.dispatch("fetchRecipes", { url: "recipes.json", 
                                           callback: this.onData })   
@@ -57,6 +61,6 @@ input[type='checkbox'] {
     margin-right: 8px;
 }
 input[type='checkbox']:checked {
-    background: rgb(109, 110, 109);
+    background: #00d1b2;
 }
 </style>

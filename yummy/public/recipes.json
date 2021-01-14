@@ -2,6 +2,8 @@
     {
         "title": "Peanut Coconut Curry",
         "time": "20 minutes",
+        "source": "https://www.youtube.com/watch?v=uO9w_5NCdgk",
+        "image": "/images/peanut_coconut_curry.png",
         "ingredients": [
             {"name": "garlic", "quantity": 3, "unit": "glove"},
             {"name": "ginger", "quantity": 1, "unit": "thumb-size"},
@@ -32,6 +34,7 @@
     {
         "title": "Thai Red Curry",
         "time": "20 minutes",
+        "image": "/images/red_thai_curry.png",
         "ingredients": [
             {"name": "broccoli", "quantity": 1, "unit": "head"},
             {"name": "red pepper", "quantity": 1, "unit": ""},

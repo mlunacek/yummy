@@ -9,11 +9,10 @@
     <tbody>
         <tr v-for="(recipe, index) in recipes" :key="index">
          
-            <td width=96>
-                <figure class="image is-96x96">
+            <td width=48>
+                <figure class="image is-48x48">
                     <router-link :to="{name:'recipe', params:{id:recipe.id}}">
-                        <img src="https://bulma.io/images/placeholders/96x96.png" 
-                             alt="Placeholder image">
+                        <img :src="recipe.image" >
                     </router-link>
                 </figure>
             </td>    
@@ -22,10 +21,12 @@
                 <label class="checkbox">
                     <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
                 </label>
-                
-                <router-link :to="{name:'recipe', params:{id:recipe.id}}">
+            
+                <div class='row'>
+                <router-link :to="{name:'recipe', params:{id:recipe.id}}" >
                                 {{recipe.title}}
                 </router-link>
+                </div>
             </td>
 
        
@@ -80,6 +81,19 @@ export default {
 <style scoped>
 .checkbox{
     float: left;
+    margin-top: 10px;
+}
+
+.row{
+    padding: 8px;
+    float: left;
+    height: 48px;
+
+}
+
+.row a{
+    margin-top: 20px;
+    vertical-align: middle;
 }
 
 </style>
