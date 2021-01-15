@@ -18,7 +18,10 @@
       </div>
 
     <main>
+      <transition name="fade" mode="out-in" @before-enter="beforeEnter" appear>
         <router-view></router-view>
+      </transition>
+        <!-- <router-view></router-view> -->
     </main>
 
 

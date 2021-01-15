@@ -5,13 +5,15 @@
             <div class="container is-fluid">
                     <!-- <div v-for="(recipe, index) in recipes" :key="index"> -->
 
+
+
 <div class="subtitle">
     Breakfast
 </div> 
  <table class="table is-bordered is-fullwidth is-narrow">
     <tbody>
         <tr v-for="(recipe) in this.breakfast" :key="recipe.title">
-            <td>    
+            <td style="width: 40px;">    
                 <label class="checkbox">
                     <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
                 </label>
@@ -33,7 +35,7 @@
  <table class="table is-bordered is-fullwidth is-narrow">
     <tbody>
         <tr v-for="(recipe) in this.lunch" :key="recipe.title">
-            <td>    
+            <td style="width: 40px;">  
                 <label class="checkbox">
                     <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
                 </label>
@@ -55,7 +57,7 @@
  <table class="table is-bordered is-fullwidth is-narrow">
     <tbody>
         <tr v-for="(recipe) in this.dinner" :key="recipe.title">
-            <td>    
+            <td style="width: 40px;">   
                 <label class="checkbox">
                     <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
                 </label>
