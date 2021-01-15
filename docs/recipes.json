@@ -1,6 +1,8 @@
 [
     {
         "title": "Peanut Coconut Curry",
+        "servings": 4,
+        "kind": "dinner",
         "time": "20 minutes",
         "source": "Happy Pear: Recipes for Happiness",
         "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
@@ -8,72 +10,86 @@
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "glove"
+                "unit": "glove",
+                "category": "fresh"
             },
             {
                 "name": "ginger",
                 "quantity": 1,
-                "unit": "thumb-size"
+                "unit": "thumb-size",
+                "category": "fresh"
             },
             {
                 "name": "broccoli",
                 "quantity": 1,
-                "unit": "head"
+                "unit": "head",
+                "category": "fresh"
             },
             {
                 "name": "scallions",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "zucchini",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "chilli pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "lime",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "coconut milk",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "tamari",
                 "quantity": 3,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "peanut butter",
                 "quantity": 3,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": ""
             },
             {
                 "name": "maple syrup",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "sesame oil",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "whole wheat noodles",
                 "quantity": 8,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "grains"
             }
         ],
         "process": [
@@ -92,38 +108,46 @@
     {
         "title": "Thai Red Curry",
         "time": "20 minutes",
+        "servings": 4,
+        "kind": "dinner",
         "url": "",
         "source": "",
         "ingredients": [
             {
                 "name": "broccoli",
                 "quantity": 1,
-                "unit": "head"
+                "unit": "head",
+                "category": "fresh"
             },
             {
                 "name": "red pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "mushrooms",
                 "quantity": 8,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "fresh"
             },
             {
                 "name": "carrots",
                 "quantity": 3,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "coconut milk",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "brown rice",
                 "quantity": 1,
-                "unit": "cup"
+                "unit": "cup",
+                "category": "grains"
             }
         ],
         "process": [
@@ -140,6 +164,8 @@
     },
     {
         "title": "Kale and Chickpea Minestrone soup",
+        "servings": 4,
+        "kind": "dinner",
         "source": "Cooking for Keeps",
         "url": "https://www.cookingforkeeps.com/kale-and-chickpea-minestrone/",
         "time": "20 minutes",
@@ -147,67 +173,80 @@
             {
                 "name": "carrots",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "celery",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "onion",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "cloves"
+                "unit": "cloves",
+                "category": "fresh"
             },
             {
                 "name": "vegetable broth",
                 "quantity": 6,
-                "unit": "cups"
+                "unit": "cups",
+                "category": ""
             },
             {
                 "name": "tomato paste",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "fire-roasted tomatoes",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "chickpeas",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "pasta",
                 "quantity": 2,
-                "unit": "cups"
+                "unit": "cups",
+                "category": ""
             },
             {
                 "name": "kale",
                 "quantity": 3,
-                "unit": "cups"
+                "unit": "cups",
+                "category": "fresh"
             },
             {
                 "name": "oregano",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "basil",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "red pepper flakes",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             }
         ],
         "process": [
@@ -224,6 +263,8 @@
     },
     {
         "title": "African Curried Coconut Soup",
+        "servings": 4,
+        "kind": "dinner",
         "time": "30 minutes",
         "source": "Epicurious",
         "url": "https://www.epicurious.com/recipes/food/views/african-curried-coconut-soup-with-chickpeas-352349",
@@ -231,62 +272,74 @@
             {
                 "name": "onion",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "jalapeno",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "glove"
+                "unit": "glove",
+                "category": "fresh"
             },
             {
                 "name": "vegetable broth",
                 "quantity": 2,
-                "unit": "cups"
+                "unit": "cups",
+                "category": ""
             },
             {
                 "name": "chickpeas",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "coconut milk",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "fire-roasted tomatoes",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "curry",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "salt",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "pepper",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "brown rice",
                 "quantity": 0.75,
-                "unit": "cups"
+                "unit": "cups",
+                "category": "grains"
             }
         ],
         "process": [
@@ -301,6 +354,8 @@
     },
     {
         "title": "Go-to Dahl",
+        "servings": 4,
+        "kind": "dinner",
         "source": "Happy Pear: Recipes for Happiness",
         "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
         "time": "10 minutes",
@@ -308,67 +363,80 @@
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "glove"
+                "unit": "glove",
+                "category": "fresh"
             },
             {
                 "name": "ginger",
                 "quantity": 1,
-                "unit": "thumb-size"
+                "unit": "thumb-size",
+                "category": "fresh"
             },
             {
                 "name": "scallions",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "chickpeas",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "lentils",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "cherry tomatoes",
                 "quantity": 15,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "baby spinach",
                 "quantity": 4,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "fresh"
             },
             {
                 "name": "coconut milk",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "lime",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "curry",
                 "quantity": 2,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "cumin",
                 "quantity": 2,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "salt",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "tamari",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             }
         ],
         "process": [
@@ -382,6 +450,8 @@
     },
     {
         "title": "Cauliflower and Pea Korma",
+        "servings": 4,
+        "kind": "dinner",
         "source": "Happy Pear: Recipes for Happiness",
         "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
         "time": "15 minutes",
@@ -389,77 +459,92 @@
             {
                 "name": "frozen peas",
                 "quantity": 9,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "frozen"
             },
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "glove"
+                "unit": "glove",
+                "category": "fresh"
             },
             {
                 "name": "ginger",
                 "quantity": 1,
-                "unit": "thumb-size"
+                "unit": "thumb-size",
+                "category": "fresh"
             },
             {
                 "name": "scallions",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red chilli",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "cauliflower",
                 "quantity": 1,
-                "unit": "head"
+                "unit": "head",
+                "category": "fresh"
             },
             {
                 "name": "red pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "cumin seeds",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "coconut milk",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "fire-roasted tomatoes",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "curry",
                 "quantity": 1.5,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "pepper",
                 "quantity": 1.5,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "sea salt",
                 "quantity": 1.5,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "maple syrup",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "lime",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             }
         ],
         "process": [
@@ -474,6 +559,8 @@
     },
     {
         "title": "Pad Thai",
+        "servings": 4,
+        "kind": "dinner",
         "source": "Happy Pear: Recipes for Happiness",
         "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
         "time": "15 minutes",
@@ -481,72 +568,86 @@
             {
                 "name": "whole wheat noodles",
                 "quantity": 8,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "grains"
             },
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "glove"
+                "unit": "glove",
+                "category": "fresh"
             },
             {
                 "name": "ginger",
                 "quantity": 1,
-                "unit": "thumb-size"
+                "unit": "thumb-size",
+                "category": "fresh"
             },
             {
                 "name": "chilli pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "scallions",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "yellow pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "carrot",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "mushrooms",
                 "quantity": 5,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "fresh"
             },
             {
                 "name": "baby bok choi",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "coconut milk",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "tamari",
                 "quantity": 3,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "maple syrup",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "lime",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             }
         ],
         "process": [
@@ -562,6 +663,8 @@
     {
         "title": "Creamy Tomato Pasta",
         "time": "15 minutes",
+        "servings": 4,
+        "kind": "dinner",
         "stars": "",
         "source": "Happy Pear",
         "url": "https://thehappypear.ie/recipes/one-pot-wonder-creamy-tomato-pasta/",
@@ -569,62 +672,74 @@
             {
                 "name": "onion",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "glove"
+                "unit": "glove",
+                "category": "fresh"
             },
             {
                 "name": "eggplant",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "whole wheat noodles",
                 "quantity": 16,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "grains"
             },
             {
                 "name": "fire-roasted tomatoes",
                 "quantity": 2,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
-                "name": "tomato puree",
+                "name": "tomato paste",
                 "quantity": 3.5,
-                "unit": "oz"
+                "unit": "oz",
+                "category": ""
             },
             {
                 "name": "maple syrup",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "tamari",
                 "quantity": 4,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "black pepper",
                 "quantity": 0.25,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "alternative milk",
                 "quantity": 16,
-                "unit": "oz"
+                "unit": "oz",
+                "category": ""
             },
             {
                 "name": "vegetable broth",
                 "quantity": 16,
-                "unit": "oz"
+                "unit": "oz",
+                "category": ""
             },
             {
                 "name": "basil",
                 "quantity": 1,
-                "unit": "bunch"
+                "unit": "bunch",
+                "category": "spice"
             }
         ],
         "process": [
@@ -638,6 +753,8 @@
     },
     {
         "title": "Creamy Red Pepper Pasta",
+        "servings": 4,
+        "kind": "dinner",
         "time": "20 minutes",
         "source": "Happy Pear",
         "url": "https://thehappypear.ie/recipes/creamy-red-pepper-and-basil-pasta-dinner/",
@@ -645,42 +762,50 @@
             {
                 "name": "whole wheat noodles",
                 "quantity": 10,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "grains"
             },
             {
-                "name": "cashew nuts",
+                "name": "cashew",
                 "quantity": 4,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "nuts"
             },
             {
                 "name": "garlic powder",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "lemon",
                 "quantity": 0.5,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "roasted red peppers",
                 "quantity": 4,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "spice"
             },
             {
                 "name": "basil",
                 "quantity": 1,
-                "unit": "bunch"
+                "unit": "bunch",
+                "category": "spice"
             },
             {
                 "name": "black pepper",
                 "quantity": 0.25,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "sea salt",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             }
         ],
         "process": [
@@ -695,103 +820,124 @@
     {
         "title": "Creamy spiced black bean quesadilla",
         "time": "20 minutes",
+        "servings": 4,
+        "kind": "dinner",
         "source": "Happy Pear",
         "url": "https://thehappypear.ie/recipes/creamy-spiced-black-bean-quesadilla/",
         "ingredients": [
             {
                 "name": "whole wheat tortillas",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "grains"
             },
             {
                 "name": "black beans",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": "cans"
             },
             {
                 "name": "scallions",
                 "quantity": 2,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red onion",
                 "quantity": 0.5,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "cherry tomatoes",
                 "quantity": 10,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "chilli pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "avocado",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "cumin seed",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "cumin",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "coriander",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "smoked paprika",
                 "quantity": 0.25,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "cinnamon",
                 "quantity": 0.25,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "black pepper",
                 "quantity": 0.25,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "garlic powder",
                 "quantity": 0.5,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "tamari",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "lime",
                 "quantity": 0.5,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "lemon",
                 "quantity": 0.5,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
-                "name": "cashews",
+                "name": "cashew",
                 "quantity": 8,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "nuts"
             },
             {
                 "name": "alternative milk",
                 "quantity": 5,
-                "unit": "oz"
+                "unit": "oz",
+                "category": ""
             }
         ],
         "process": [
@@ -808,93 +954,112 @@
     {
         "title": "Spanish Roasted Veggie Paella",
         "time": "45 minutes",
+        "servings": 4,
+        "kind": "dinner",
         "source": "Happy Pear",
         "url": "https://thehappypear.ie/recipes/veggie-paella/",
         "ingredients": [
             {
                 "name": "brown rice",
                 "quantity": 16,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "grains"
             },
             {
-                "name": "veggie broth",
+                "name": "vegetable broth",
                 "quantity": 20,
-                "unit": "oz"
+                "unit": "oz",
+                "category": ""
             },
             {
                 "name": "smoked paprika",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "tumeric",
                 "quantity": 1,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "garlic",
                 "quantity": 5,
-                "unit": "glove"
+                "unit": "glove",
+                "category": "fresh"
             },
             {
-                "name": "red onions",
+                "name": "red onion",
                 "quantity": 2,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "carrot",
                 "quantity": 2,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "yellow pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "green pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "spice"
             },
             {
                 "name": "zucchini",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "fire-roasted tomatoes",
                 "quantity": 13,
-                "unit": "oz"
+                "unit": "oz",
+                "category": ""
             },
             {
                 "name": "red wine",
                 "quantity": 4,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "tamari",
                 "quantity": 2,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "maple syrup",
                 "quantity": 1.5,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "lemon",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "black beans",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": "cans"
             }
         ],
         "process": [
@@ -913,29 +1078,41 @@
     },
     {
         "title": "Green Smoothie",
+        "servings": 4,
+        "kind": "breakfast",
         "time": "5 minutes",
         "source": "Joy Food Sunshine",
         "url": "https://joyfoodsunshine.com/green-smoothie/",
         "ingredients": [
             {
                 "name": "kale",
-                "quantity": 1,
-                "unit": "cup"
+                "quantity": 4,
+                "unit": "cup",
+                "category": "fresh"
             },
             {
                 "name": "alternative milk",
-                "quantity": 1,
-                "unit": "cup"
+                "quantity": 4,
+                "unit": "cup",
+                "category": ""
             },
             {
                 "name": "banana",
-                "quantity": 1,
-                "unit": ""
+                "quantity": 4,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "blueberries",
+                "quantity": 4,
+                "unit": "oz",
+                "category": "fresh"
             },
             {
                 "name": "celery",
-                "quantity": 1,
-                "unit": ""
+                "quantity": 4,
+                "unit": "",
+                "category": "fresh"
             }
         ],
         "process": [
@@ -946,6 +1123,8 @@
     },
     {
         "title": "Roasted Veggies with Hummus sauce",
+        "servings": 4,
+        "kind": "dinner",
         "time": "30 minutes",
         "source": "Five Second Health",
         "url": "https://www.youtube.com/watch?v=64nUoF3NLKc",
@@ -953,52 +1132,62 @@
             {
                 "name": "carrots",
                 "quantity": 2,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "potatoes",
                 "quantity": 3,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "brussel sprouts",
                 "quantity": 10,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "chickpeas",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "hummus",
                 "quantity": 0.25,
-                "unit": "cup"
+                "unit": "cup",
+                "category": ""
             },
             {
                 "name": "curry",
                 "quantity": 0.5,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "lemon",
                 "quantity": 0.5,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "sea salt",
                 "quantity": 0.25,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "black pepper",
                 "quantity": 0.25,
-                "unit": "tsp"
+                "unit": "tsp",
+                "category": "spice"
             },
             {
                 "name": "maple syrup",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             }
         ],
         "process": [
@@ -1011,6 +1200,8 @@
     },
     {
         "title": "Red Lentil Curry",
+        "servings": 4,
+        "kind": "dinner",
         "time": "30 minutes",
         "source": "Five Second Health",
         "url": "https://www.youtube.com/watch?v=64nUoF3NLKc",
@@ -1018,72 +1209,86 @@
             {
                 "name": "yellow pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "mushrooms",
                 "quantity": 8,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "fresh"
             },
             {
                 "name": "garlic",
                 "quantity": 3,
-                "unit": "gloves"
+                "unit": "gloves",
+                "category": "fresh"
             },
             {
                 "name": "cauliflower",
                 "quantity": 1,
-                "unit": "head"
+                "unit": "head",
+                "category": "fresh"
             },
             {
                 "name": "cherry tomatoes",
                 "quantity": 10,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "ginger",
                 "quantity": 1,
-                "unit": "thumb-size"
+                "unit": "thumb-size",
+                "category": "fresh"
             },
             {
                 "name": "red curry paste",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "curry",
                 "quantity": 2,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "coconut milk",
                 "quantity": 1,
-                "unit": "can"
+                "unit": "can",
+                "category": ""
             },
             {
                 "name": "red lentils",
                 "quantity": 1,
-                "unit": "cup"
+                "unit": "cup",
+                "category": ""
             },
             {
                 "name": "brown rice",
                 "quantity": 1.5,
-                "unit": "cup"
+                "unit": "cup",
+                "category": "grains"
             },
             {
                 "name": "red cabbage",
                 "quantity": 0.25,
-                "unit": "head"
+                "unit": "head",
+                "category": "fresh"
             },
             {
                 "name": "cilantro",
                 "quantity": 0.5,
-                "unit": "bunch"
+                "unit": "bunch",
+                "category": "fresh"
             },
             {
                 "name": "lime",
                 "quantity": 0.5,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             }
         ],
         "process": [
@@ -1098,32 +1303,39 @@
     },
     {
         "title": "Oatmeal",
+        "servings": 4,
+        "kind": "breakfast",
         "time": "30 minutes",
         "ingredients": [
             {
                 "name": "steel cut oats",
                 "quantity": 1,
-                "unit": "cup"
+                "unit": "cup",
+                "category": "grains"
             },
             {
                 "name": "banana",
                 "quantity": 4,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "flaxseed",
-                "quantity": 1,
-                "unit": "tbsp"
+                "quantity": 2,
+                "unit": "tbsp",
+                "category": ""
             },
             {
                 "name": "blueberries",
                 "quantity": 8,
-                "unit": "oz"
+                "unit": "oz",
+                "category": "fresh"
             },
             {
                 "name": "almond butter",
-                "quantity": 1,
-                "unit": "tbsp"
+                "quantity": 4,
+                "unit": "tbsp",
+                "category": "nuts"
             }
         ],
         "process": [
@@ -1136,62 +1348,75 @@
     },
     {
         "title": "Buddha Bowl",
+        "servings": 4,
+        "kind": "dinner",
         "time": "30 minutes",
         "ingredients": [
             {
                 "name": "cilantro",
                 "quantity": 0.5,
-                "unit": "bunch"
+                "unit": "bunch",
+                "category": "fresh"
             },
             {
                 "name": "cucumber",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red pepper",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "red cabbage",
                 "quantity": 0.5,
-                "unit": "head"
+                "unit": "head",
+                "category": "fresh"
             },
             {
                 "name": "baby spinach",
                 "quantity": 1,
-                "unit": "cup"
+                "unit": "cup",
+                "category": "fresh"
             },
             {
                 "name": "organic tofu",
                 "quantity": 1,
-                "unit": "block"
+                "unit": "block",
+                "category": ""
             },
             {
                 "name": "peanut butter",
                 "quantity": 3,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": ""
             },
             {
                 "name": "maple syrup",
                 "quantity": 0.5,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             },
             {
                 "name": "lime",
                 "quantity": 1,
-                "unit": ""
+                "unit": "",
+                "category": "fresh"
             },
             {
                 "name": "quinoa",
                 "quantity": 1,
-                "unit": "cup"
+                "unit": "cup",
+                "category": "grains"
             },
             {
                 "name": "tamari",
                 "quantity": 1,
-                "unit": "tbsp"
+                "unit": "tbsp",
+                "category": "spice"
             }
         ],
         "process": [
@@ -1201,6 +1426,229 @@
             "Add spinach, cooked quinoa, and raw veggies to a bowl.  Top with warm tofu, peanut sauce and cilantro."
         ],
         "image": "/yummy/images/016_buddha_bowl.png",
+        "active": "false"
+    },
+    {
+        "title": "No Tuna Sandwich",
+        "servings": 4,
+        "kind": "lunch",
+        "time": "15 minutes",
+        "source": "Forks Over Knives",
+        "url": "https://www.forksoverknives.com/recipes/vegan-burgers-wraps/vegan-no-tuna-salad-sandwich/",
+        "ingredients": [
+            {
+                "name": "chickpeas",
+                "quantity": 1,
+                "unit": "can",
+                "category": ""
+            },
+            {
+                "name": "tahini",
+                "quantity": 3,
+                "unit": "tbsp",
+                "category": ""
+            },
+            {
+                "name": "spicy brown mustard",
+                "quantity": 1,
+                "unit": "tsp",
+                "category": ""
+            },
+            {
+                "name": "maple syrup",
+                "quantity": 1,
+                "unit": "tsp",
+                "category": "spice"
+            },
+            {
+                "name": "red onion",
+                "quantity": 0.5,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "celery",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "pickle",
+                "quantity": 2,
+                "unit": "",
+                "category": ""
+            },
+            {
+                "name": "capers",
+                "quantity": 1,
+                "unit": "tsp",
+                "category": "spice"
+            },
+            {
+                "name": "sunflower seeds",
+                "quantity": 1,
+                "unit": "tbsp",
+                "category": "nuts"
+            },
+            {
+                "name": "whole-wheat bread",
+                "quantity": 8,
+                "unit": "slices",
+                "category": "grain"
+            },
+            {
+                "name": "baby spinach",
+                "quantity": 4,
+                "unit": "oz",
+                "category": "fresh"
+            },
+            {
+                "name": "cherry tomatoes",
+                "quantity": 16,
+                "unit": "",
+                "category": "fresh"
+            }
+        ],
+        "process": [
+            "Place the chickpeas in a mixing bowl and mash with a fork, leaving only a few beans whole.",
+            "Add tahini, mustard, maple syrup, red onion, celery, pickle, capers, salt and pepper, and sunflower seeds (if using) to mixing bowl. Mix to incorporate. Taste and adjust seasonings as needed.",
+            "Toast bread if desired, and prepare any other desired sandwich toppings (such as lettuce, tomato, and onion).",
+            "Scoop a healthy amount of the chickpea mixture (about \u00bd cup) onto one slice of bread, add desired toppings and top with second slice of bread. Repeat for additional sandwiches."
+        ],
+        "image": "/yummy/images/017_no_tuna_sandwich.png",
+        "active": "false"
+    },
+    {
+        "title": "Avocado Toast",
+        "servings": 4,
+        "kind": "breakfast",
+        "time": "10 minutes",
+        "source": "Prolon",
+        "url": "https://api.medprowellness.com/documents/prolon-transition-day-meal-guide/prolontransitiondaymealguide20190307142050.pdf",
+        "ingredients": [
+            {
+                "name": "avocado",
+                "quantity": 2,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "lemon",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "whole-wheat bread",
+                "quantity": 4,
+                "unit": "slices",
+                "category": "grain"
+            },
+            {
+                "name": "red pepper flakes",
+                "quantity": 1,
+                "unit": "tbsp",
+                "category": "spice"
+            },
+            {
+                "name": "olive oil",
+                "quantity": 2,
+                "unit": "tsp",
+                "category": ""
+            }
+        ],
+        "process": [
+            "Scoop out half an avocado into a medium-sized bowl and mash in the pepper flakes, lemon juice, and olive oil. Try to keep consistency chunky, not smooth.",
+            "Toast your bread in the toaster or toaster oven.",
+            "Spread avocado mix on the toast and garnish with excess lemon and pepper flakes.",
+            "Enjoy!"
+        ],
+        "image": "/yummy/images/018_avacodo_toast.png",
+        "active": "false"
+    },
+    {
+        "title": "Kale and Carrot Soup",
+        "servings": 4,
+        "kind": "lunch",
+        "time": "15 minutes",
+        "source": "Prolon",
+        "url": "https://api.medprowellness.com/documents/prolon-transition-day-meal-guide/prolontransitiondaymealguide20190307142050.pdf",
+        "ingredients": [
+            {
+                "name": "kale",
+                "quantity": 1,
+                "unit": "cup",
+                "category": "fresh"
+            },
+            {
+                "name": "carrots",
+                "quantity": 2,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "celery",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "chickpeas",
+                "quantity": 1,
+                "unit": "can",
+                "category": ""
+            },
+            {
+                "name": "mushrooms",
+                "quantity": 4,
+                "unit": "oz",
+                "category": "fresh"
+            },
+            {
+                "name": "onion",
+                "quantity": 0.5,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "garlic",
+                "quantity": 5,
+                "unit": "cloves",
+                "category": "fresh"
+            },
+            {
+                "name": "lemon",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "vegetable broth",
+                "quantity": 4,
+                "unit": "cups",
+                "category": ""
+            },
+            {
+                "name": "red pepper flakes",
+                "quantity": 1,
+                "unit": "tbsp",
+                "category": "spice"
+            },
+            {
+                "name": "turmeric",
+                "quantity": 0.5,
+                "unit": "tsp",
+                "category": ""
+            }
+        ],
+        "process": [
+            "In a large pot, heat olive oil on medium-high heat and saut\u00e9 onion, celery and carrots for minutes. Then add mushrooms, garlic, and continue to stir for an additional 3 minutes.",
+            "Stir in vegetable stock, lemon juice, peppers, turmeric, salt and chickpeas. Cover and turn heat to simmer for 15 minutes.",
+            "Add kale and simmer for an additional 3-5 minutes.",
+            "Garnish your bowl of soup with a slice of lemon and added pepper flakes if you want to spice things up. ",
+            "Enjoy! "
+        ],
+        "image": "/yummy/images/019_kale_and_carrot_soup.png",
         "active": "false"
     }
 ]
