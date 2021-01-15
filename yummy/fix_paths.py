@@ -1,7 +1,7 @@
 import os
 import json
 
-data = json.loads(open("../docs/recipes.json").read())
+data = json.loads(open("public/recipes.json").read())
 
 for item in data:
     print(item['image'])
