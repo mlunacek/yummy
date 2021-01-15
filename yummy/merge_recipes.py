@@ -24,8 +24,5 @@ print("\n", len(recipes))
 print("\n\n")
 
 with open("public/recipes.json", 'w') as outfile:
-    outfile.write(json.dumps(recipes))
+    outfile.write(json.dumps(recipes, indent=4))
 
-# for image in images:
-#     print(os.path.split(image)[1])
-# print("\n\n")
