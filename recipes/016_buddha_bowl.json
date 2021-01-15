@@ -1,0 +1,23 @@
+{
+    "title": "Buddha Bowl",
+    "time": "30 minutes",
+    "ingredients": [
+        {"name": "cilantro", "quantity": 0.5, "unit": "bunch"},
+        {"name": "cucumber", "quantity": 1, "unit": ""},
+        {"name": "red pepper", "quantity": 1, "unit": ""},
+        {"name": "red cabbage", "quantity": 0.5, "unit": "head"},
+        {"name": "baby spinach", "quantity": 1, "unit": "cup"},
+        {"name": "organic tofu", "quantity": 1, "unit": "block"},
+        {"name": "peanut butter", "quantity": 3, "unit": "tbsp"},
+        {"name": "maple syrup", "quantity": 0.5, "unit": "tbsp"},
+        {"name": "lime", "quantity": 1, "unit": ""},
+        {"name": "quinoa", "quantity": 1, "unit": "cup"},
+        {"name": "tamari", "quantity": 1, "unit": "tbsp"}
+    ],
+    "process": [
+        "Cook tofu in air fryer (or bake).",
+        "Chop veggies",
+        "Sauce: peanut butter (3 tbsp) + maple syrup (1/2 tbsp) + lime + tamari (1 tbsp). Add water if needed.",
+        "Add spinach, cooked quinoa, and raw veggies to a bowl.  Top with warm tofu, peanut sauce and cilantro."
+    ]
+}

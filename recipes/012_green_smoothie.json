@@ -1,0 +1,15 @@
+{
+    "title": "Green Smoothie",
+    "time": "5 minutes",
+    "source": "Joy Food Sunshine",
+    "url": "https://joyfoodsunshine.com/green-smoothie/",
+    "ingredients": [
+        {"name": "kale", "quantity": 1, "unit": "cup"},
+        {"name": "alternative milk", "quantity": 1, "unit": "cup"},
+        {"name": "banana", "quantity": 1, "unit": ""},
+        {"name": "celery", "quantity": 1, "unit": ""}
+    ],
+    "process": [
+        "Add all to Vitamix and enjoy!"
+    ]
+}

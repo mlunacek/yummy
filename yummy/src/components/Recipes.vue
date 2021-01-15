@@ -5,23 +5,26 @@
             <div class="container is-fluid">
                     <!-- <div v-for="(recipe, index) in recipes" :key="index"> -->
 
- <table class="table is-bordered is-fullwidth">
+ <table class="table is-bordered ">
     <tbody>
         <tr v-for="(recipe, index) in recipes" :key="index">
          
-            <td width=48>
+            <!-- <td >
                 <figure class="image is-48x48">
                     <router-link :to="{name:'recipe', params:{id:recipe.id}}">
                         <img :src="recipe.image" >
                     </router-link>
                 </figure>
-            </td>    
+            </td>     -->
 
-            <td>    
+            <td width=40>    
                 <label class="checkbox">
                     <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
                 </label>
-            
+            </td>    
+
+            <td>  
+
                 <div class='row'>
                 <router-link :to="{name:'recipe', params:{id:recipe.id}}" >
                                 {{recipe.title}}
@@ -52,7 +55,7 @@ export default {
     methods:{
 
         toggleRecipe(recipe){
-            this.$store.commit('updateShoppingList', recipe)
+            this.$store.dispatch('updateRecipe', recipe)
         }
 
     },
@@ -62,17 +65,10 @@ export default {
             get () {
                 return this.$store.getters.recipes();
             },
-            set (value) {
-                this.$store.commit('updateRecipes', value)
-            }
+            // set (value) {
+            //     this.$store.dispatch('updateRecipes', value)
+            // }
         },
-    },
-
-    created() {
-        window.addEventListener('beforeunload', function(event) {
-            console.log(event);
-            // Maybe save state here?
-        });
     },
 
 }
@@ -82,18 +78,25 @@ export default {
 .checkbox{
     float: left;
     margin-top: 10px;
+    padding: 0;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .row{
-    padding: 8px;
+    padding-top: 5px;
     float: left;
-    height: 48px;
+    word-wrap: normal;
 
 }
 
 .row a{
-    margin-top: 20px;
     vertical-align: middle;
+}
+
+.desktop{
+    /* width: 600px; */
 }
 
 </style>

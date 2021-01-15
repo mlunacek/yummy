@@ -1,34 +1,66 @@
 <template>
     <div>
-      <section class="">
+      <section>
+
         <div class="container is-fluid">
 
-                <label class="checkbox">
-                    <input type="checkbox" v-if="this.recipe" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
-                </label>
-                <p class="subtitle titleadjust" v-if="this.recipe">
-                 {{ this.recipe.title }}
-                </p>
-                <p> <strong>Process</strong> </p>
-                <br>
-                <div  v-for="(step, index) in this.process" :key="index">
-                    {{step}}
+            <div class="columns is-mobile">
+
+                <div class="column ">
+                    <label class="checkbox">
+                        <input type="checkbox" v-if="this.recipe" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
+                    </label>
+
+                    <div class="subtitle titleadjust" v-if="this.recipe">
+                        {{ this.recipe.title }}
+                    </div>
+
                 </div>
-                <br>
-                <p> <strong>Ingredients</strong> </p>
-                <br>
-                <table class="table is-bordered is-fullwidth">
-                <tbody>
-                    <tr v-for="step in this.ingredients" :key="step.name">
-                        <td> {{step.name}} </td>
-                        <td> {{step.quantity}} </td>
-                        <td> {{step.unit}} </td>
-                    </tr>
 
-                </tbody>
-                </table>
+            </div>
 
-        </div> 
+            <div class="columns is-desktop">
+
+                <div class="column is-third-desktop is-mobile">
+                    <figure class="image">
+                            <img :src="recipe.image" >
+                    </figure>        
+                </div>
+
+                <div class="column is-third-desktop is-mobile">
+            
+                    <div class="subtitle">
+                        Process
+                    </div>  
+                        
+                    <div  v-for="(step, index) in this.process" :key="index">
+                        {{index+1}}. {{step}}
+                    </div>
+
+                </div>
+
+                <div class="column is-third-desktop is-mobile">
+                    <div class="subtitle">
+                        Process
+                    </div>  
+                    <table class="table is-bordered">
+                    <tbody>
+                        <tr v-for="step in this.ingredients" :key="step.name">
+                            <td> {{step.name}} </td>
+                            <td> {{step.quantity}} </td>
+                            <td> {{step.unit}} </td>
+                        </tr>
+
+                    </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
       </section>
   </div>
 </template>
@@ -38,9 +70,8 @@ export default {
     methods:{
 
         toggleRecipe(recipe){
-            this.$store.commit('updateShoppingList', recipe)
+            this.$store.dispatch('updateRecipe', recipe)
         }
-
     },
 
     computed:{
@@ -72,8 +103,12 @@ export default {
 }
 
 .titleadjust{
-    margin-top: 20px;
+    /* margin-top: 20px; */
     padding-top: 10px;
+}
+
+.desktop{
+    /* width: 600px; */
 }
 
 </style>

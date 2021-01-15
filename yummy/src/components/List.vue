@@ -6,7 +6,7 @@
                     <!-- {{this.shoppingList}} -->
                 </p>
 
-            <table class="table is-bordered is-fullwidth">
+            <table class="table is-bordered ">
             <tbody>
                     <tr v-for="(item, key) in this.shoppingList" @click="toggleRow(key)" :key="key" :class="selected(item)">
                         <td > {{key}} </td>
@@ -16,6 +16,9 @@
 
             </tbody>
             </table>
+                <hr>
+            <br>
+            <br>
 
 
             </div> 
@@ -29,8 +32,7 @@ export default {
     
      methods: {
          toggleRow(key){
-            console.log(key)
-            this.$store.commit('toggleShoppingList', key)
+            this.$store.dispatch('toggleShoppingList', key)
          },
 
          selected(item){

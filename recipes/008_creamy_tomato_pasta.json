@@ -1,0 +1,27 @@
+{
+    "title": "Creamy Tomato Pasta",
+    "time": "15 minutes",
+    "stars": "",
+    "source": "Happy Pear",
+    "url": "https://thehappypear.ie/recipes/one-pot-wonder-creamy-tomato-pasta/",
+    "ingredients": [
+        {"name": "onion", "quantity": 1, "unit": ""},
+        {"name": "garlic", "quantity": 3, "unit": "glove"},
+        {"name": "eggplant", "quantity": 1, "unit": ""},
+        {"name": "whole wheat noodles", "quantity": 16, "unit": "oz"},
+        {"name": "fire-roasted tomatoes", "quantity": 2, "unit": "can"},
+        {"name": "tomato puree", "quantity": 3.5, "unit": "oz"},
+        {"name": "maple syrup", "quantity": 1, "unit": "tbsp"},
+        {"name": "tamari", "quantity": 4, "unit": "tbsp"},
+        {"name": "black pepper", "quantity": 0.25, "unit": "tsp"},
+        {"name": "alternative milk", "quantity": 16, "unit": "oz"},
+        {"name": "vegetable broth", "quantity": 16, "unit": "oz"},
+        {"name": "basil", "quantity": 1, "unit": "bunch"}
+    ],
+    "process": [
+        "Peel and finely chop the garlic and onion. Chop the aubergine and mushrooms small into bite size pieces. Pick the basil leaves and chop.",
+        "Put a large non-stick pot on high heat. Add 1 tbsp of oil. Once it’s hot , add the onion and garlic and 1 tsp of salt. Reduce the heat to medium and cook for 2-3 minutes, stirring regularly. Add the aubergine and cook for 3 minutes, add the mushrooms and tamari, mixing well and cook for 5-8 minutes, add 100ml of water to stop the veg from sticking.",
+        "Add the tinned tomato, maple and tomato puree, bring to a boil then lower to a simmer for 5 minutes. Taste the aubergine to make sure it is soft and cooked, if not simmer for a few more minutes.",
+        "Add the stock, rice milk and pasta, bring to a boil then lower the heat and simmer for 10 minutes until the pasta is cooked. Mix through most of the basil, saving some for garnish. Taste and season before serving with fresh basil. Enjoy!"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Go-to Dahl",
+    "source": "Happy Pear: Recipes for Happiness",
+    "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
+    "time": "10 minutes",
+    "ingredients": [
+        {"name": "garlic", "quantity": 3, "unit": "glove"},
+        {"name": "ginger", "quantity": 1, "unit": "thumb-size"},
+        {"name": "scallions", "quantity": 4, "unit": ""},
+        {"name": "chickpeas", "quantity": 1, "unit": "can"},
+        {"name": "lentils", "quantity": 1, "unit": "can"},
+        {"name": "cherry tomatoes", "quantity": 15, "unit": ""},
+        {"name": "baby spinach", "quantity": 4, "unit": "oz"},
+        {"name": "coconut milk", "quantity": 1, "unit": "can"},
+        {"name": "lime", "quantity": 1, "unit": ""},
+        {"name": "curry", "quantity": 2, "unit": "tbsp"},
+        {"name": "cumin", "quantity": 2, "unit": "tbsp"},
+        {"name": "salt", "quantity": 1, "unit": "tsp"},
+        {"name": "tamari", "quantity": 1, "unit": "tbsp"}
+    ],
+    "process": [
+        "Peel and finely chop the garlic and ginger. Finely chop the scallions. Drain the chickpeas and lentils and rinse thoroughly. Chop the cherry tomatoes in half",
+        "Heat the oil for 1 minute in a large saucepan over a high heat. Add the garlic, ginger and scallions and cook for 1 minute. Add the cherry tomatoes and cook for a further 2 minutes. Add the remaining ingredients to the pan and bring to the boil, stirring occasionally to make sure it doesn’t stick to the bottom. Leave to simmer for a further 2 minutes, then take off the heat.",
+        "While the dahl is simmering, toast your pitta breads.",
+        "Garnish with some chilli flakes and fresh coriander (or other fresh herb of your choice), and serve with your hot pittas, chopped into soldiers, and some rice or couscous."
+    ]
+}

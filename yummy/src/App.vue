@@ -8,8 +8,11 @@
           <router-link :to="{name:'recipes'}">
             Recipes
           </router-link>
+          <router-link :to="{name:'grid'}">
+            Grid
+          </router-link>
           <router-link :to="{name:'list'}">
-            Shopping List
+            Shopping List {{num_recipes}}
           </router-link>
         </ul>
       </div>
@@ -25,13 +28,21 @@
 <script>
 export default {
 
-  created(){
-    this.$store.dispatch("fetchLocalStorage");
-  },
-
-  mounted() {
+  created() {
     this.$store.dispatch("fetchRecipes", { url: "recipes.json", 
                                           callback: this.onData })   
+  },
+
+  computed:{
+    num_recipes: {
+      get () {
+        const num_rec = this.$lodash.filter(this.$store.getters.recipes(), function(d){return d.active}).length;
+        if(num_rec === 0){
+          return ""
+        }
+        return "(" + num_rec + ")"
+      },
+    }
   },
 
   methods:{

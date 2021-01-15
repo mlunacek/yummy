@@ -1,0 +1,16 @@
+{
+    "title": "Oatmeal",
+    "time": "30 minutes",
+    "ingredients": [
+        {"name": "steel cut oats", "quantity": 1, "unit": "cup"},
+        {"name": "banana", "quantity": 4, "unit": ""},
+        {"name": "flaxseed", "quantity": 1, "unit": "tbsp"},
+        {"name": "blueberries", "quantity": 8, "unit": "oz"},
+        {"name": "almond butter", "quantity": 1, "unit": "tbsp"}
+    ],
+    "process": [
+        "Cook oats in Instapot and store in fridge all week.",
+        "Mash half a banana in with the oats when heating.",
+        "Top with flaxseed, half of banana, and blueberries"
+    ]
+}

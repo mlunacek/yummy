@@ -1,0 +1,36 @@
+{
+    "title": "Spanish Roasted Veggie Paella",
+    "time": "45 minutes",
+    "source": "Happy Pear",
+    "url": "https://thehappypear.ie/recipes/veggie-paella/",
+    "ingredients": [
+        {"name": "brown rice", "quantity": 16, "unit": "oz"},
+        {"name": "veggie broth", "quantity": 20, "unit": "oz"},
+        {"name": "smoked paprika", "quantity": 1, "unit": "tsp"},
+        {"name": "tumeric", "quantity": 1, "unit": "tsp"},
+        {"name": "garlic", "quantity": 5, "unit": "glove"},
+        {"name": "red onions", "quantity": 2, "unit": ""},
+        {"name": "carrot", "quantity": 2, "unit": ""},
+        {"name": "red pepper", "quantity": 1, "unit": ""},
+        {"name": "yellow pepper", "quantity": 1, "unit": ""},
+        {"name": "green pepper", "quantity": 1, "unit": ""},
+        {"name": "zucchini", "quantity": 1, "unit": ""},
+        {"name": "fire-roasted tomatoes", "quantity": 13, "unit": "oz"},
+        {"name": "red wine", "quantity": 4, "unit": "tsp"},
+        {"name": "tamari", "quantity": 2, "unit": "tsp"},
+        {"name": "maple syrup", "quantity": 1.5, "unit": "tbsp"},
+        {"name": "lemon", "quantity": 1, "unit": ""},
+        {"name": "black beans", "quantity": 1, "unit": "can"}
+    ],
+    "process": [
+        "Bring the rice to the boil with the vegetable stock and 1 tsp of turmeric",
+        "Chop the onion and garlic and cook until soft in some oil or water",
+        "Grate the carrot and add to the onions & garlic along with some salt",
+        "Chop peppers and courgette and add to the pot",
+        "Next add chopped tomatoes, red wine, tamari and honey",
+        "Season with mixed herbs, smoked paprika, salt and black pepper",
+        "Leave to stew for 20 minutes, stirring occasionally",
+        "Squeeze in the lemon and add the fine beans",
+        "Garnish with chopped parsley, olives and cashew nuts and horse it into you!"
+    ]
+}

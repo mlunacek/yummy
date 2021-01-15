@@ -1,0 +1,29 @@
+{
+    "title": "Red Lentil Curry",
+    "time": "30 minutes",
+    "source": "Five Second Health",
+    "url": "https://www.youtube.com/watch?v=64nUoF3NLKc",
+    "ingredients": [
+        {"name": "yellow pepper", "quantity": 1, "unit": ""},
+        {"name": "mushrooms", "quantity": 8, "unit": "oz"},
+        {"name": "garlic", "quantity": 3, "unit": "gloves"},
+        {"name": "cauliflower", "quantity": 1, "unit": "head"},
+        {"name": "cherry tomatoes", "quantity": 10, "unit": ""},
+        {"name": "ginger", "quantity": 1, "unit": "thumb-size"},
+        {"name": "red curry paste", "quantity": 1, "unit": "tbsp"},
+        {"name": "curry", "quantity": 2, "unit": "tbsp"},
+        {"name": "coconut milk", "quantity": 1, "unit": "can"},
+        {"name": "red lentils", "quantity": 1, "unit": "cup"},
+        {"name": "brown rice", "quantity": 1.5, "unit": "cup"},
+        {"name": "red cabbage", "quantity": 0.25, "unit": "head"},
+        {"name": "cilantro", "quantity": 0.5, "unit": "bunch"},
+        {"name": "lime", "quantity": 0.5, "unit": ""}
+    ],
+    "process": [
+        "Start cooking the rice.",
+        "Add garlic, ginger, curry paste, curry to pan with oil.",
+        "Add coconut milk, red lentils, vegetable stock (or water)",
+        "Add in veggies (yellow pepper, mushrooms, cauliflower, cherry tomatoes.",
+        "Server over rice with fresh red cabbage, cilantro, and lime."
+    ]
+}

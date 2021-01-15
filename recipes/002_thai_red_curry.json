@@ -1,0 +1,23 @@
+{
+    "title": "Thai Red Curry",
+    "time": "20 minutes",
+    "url": "",
+    "source": "",
+    "ingredients": [
+        {"name": "broccoli", "quantity": 1, "unit": "head"},
+        {"name": "red pepper", "quantity": 1, "unit": ""},
+        {"name": "mushrooms", "quantity": 8, "unit": "oz"},
+        {"name": "carrots", "quantity": 3, "unit": ""},
+        {"name": "coconut milk", "quantity": 1, "unit": "can"},
+        {"name": "brown rice", "quantity": 1, "unit": "cup"}
+    ],
+    "process": [
+        "Start cooking the brown rice.",
+        "Chop veggies.",
+        "Add mushrooms to pan on high heat with oil.",
+        "Add carrots to pan.",
+        "Add red pepper and broccoli to pan.",
+        "Add red curry paste and let it heat up.",
+        "Add coconut milk"
+    ]
+}

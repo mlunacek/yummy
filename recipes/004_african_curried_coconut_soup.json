@@ -1,0 +1,27 @@
+{
+    "title": "African Curried Coconut Soup",
+    "time": "30 minutes",
+    "source": "Epicurious",
+    "url": "https://www.epicurious.com/recipes/food/views/african-curried-coconut-soup-with-chickpeas-352349",
+    "ingredients": [
+        {"name": "onion", "quantity": 1, "unit": ""},
+        {"name": "red pepper", "quantity": 1, "unit": ""},
+        {"name": "jalapeno", "quantity": 1, "unit": ""},
+        {"name": "garlic", "quantity": 3, "unit": "glove"},
+        {"name": "vegetable broth", "quantity": 2, "unit": "cups"},
+        {"name": "chickpeas", "quantity": 1, "unit": "can"},
+        {"name": "coconut milk", "quantity": 1, "unit": "can"},
+        {"name": "fire-roasted tomatoes", "quantity": 1, "unit": "can"},
+        {"name": "curry", "quantity": 1, "unit": "tbsp"},
+        {"name": "salt", "quantity": 1, "unit": "tbsp"},
+        {"name": "pepper", "quantity": 1, "unit": "tbsp"},
+        {"name": "brown rice", "quantity": 0.75, "unit": "cups"}
+    ],
+    "process": [
+       "In a medium stockpot, heat the oil over medium heat",
+       "Add the onion, bell pepper, and chili; cook, stirring, until softened, about 5 minutes",
+       "Add the garlic and cook, stirring constantly, 1 minute",
+       "Add the broth, chickpeas, tomatoes, curry powder, salt, and black pepper; bring to a boil over high heat. Reduce the heat and simmer gently, uncovered, stirring occasionally, about 10 minutes",
+       "Add the remaining ingredients and cook, stirring occasionally, until heated through, about 5 minutes"
+    ]
+}

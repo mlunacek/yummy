@@ -1,0 +1,30 @@
+{
+    "title": "Kale and Chickpea Minestrone soup",
+    "source": "Cooking for Keeps",
+    "url": "https://www.cookingforkeeps.com/kale-and-chickpea-minestrone/",
+    "time": "20 minutes",
+    "ingredients": [
+        {"name": "carrots", "quantity": 4, "unit": ""},
+        {"name": "celery", "quantity": 4, "unit": ""},
+        {"name": "onion", "quantity": 1, "unit": ""},
+        {"name": "garlic", "quantity": 3, "unit": "cloves"},
+        {"name": "vegetable broth", "quantity": 6, "unit": "cups"},
+        {"name": "tomato paste", "quantity": 1, "unit": "can"},
+        {"name": "fire-roasted tomatoes", "quantity": 1, "unit": "can"},
+        {"name": "chickpeas", "quantity": 1, "unit": "can"},
+        {"name": "pasta", "quantity": 2, "unit": "cups"},
+        {"name": "kale", "quantity": 3, "unit": "cups"},
+        {"name": "oregano", "quantity": 1, "unit": "tsp"},
+        {"name": "basil", "quantity": 1, "unit": "tsp"},
+        {"name": "red pepper flakes", "quantity": 1, "unit": "tsp"}
+    ],
+    "process": [
+        "Start cooking pasta",
+        "Chop veggies",
+        "Add onion, garlic, and red pepper flakes to pot with oil",
+        "Add celery, carrots, oregano, basil to the pot",
+        "Add chickpeas, fire-roasted tomatoes, and tomato paste",
+        "Add vegetable broth",
+        "When pasta is done, add to pot"
+    ]
+}

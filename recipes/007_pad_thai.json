@@ -1,0 +1,29 @@
+{
+    "title": "Pad Thai",
+    "source": "Happy Pear: Recipes for Happiness",
+    "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
+    "time": "15 minutes",
+    "ingredients": [
+        {"name": "whole wheat noodles", "quantity": 8, "unit": "oz"},
+        {"name": "garlic", "quantity": 3, "unit": "glove"},
+        {"name": "ginger", "quantity": 1, "unit": "thumb-size"},
+        {"name": "chilli pepper", "quantity": 1, "unit": ""},
+        {"name": "scallions", "quantity": 4, "unit": ""},
+        {"name": "red pepper", "quantity": 1, "unit": ""},
+        {"name": "yellow pepper", "quantity": 1, "unit": ""},
+        {"name": "carrot", "quantity": 1, "unit": ""},
+        {"name": "mushrooms", "quantity": 5, "unit": "oz"},
+        {"name": "baby bok choi", "quantity": 4, "unit": ""},
+        {"name": "coconut milk", "quantity": 1, "unit": "can"},
+        {"name": "tamari", "quantity": 3, "unit": "tbsp"},
+        {"name": "maple syrup", "quantity": 1, "unit": "tbsp"},
+        {"name": "lime", "quantity": 1, "unit": ""}
+    ],
+    "process": [
+        "Put the noodles into a pot of boiling water with a pinch of salt and cook as per the instructions on the packet. Remove from the heat, drain, then rinse with cold water in a colander over the sink and set aside while you prepare your veg.",
+        "Peel and finely chop the garlic and ginger. Deseed and finely slice the chilli (leave the seeds in if you like it hot), and finely chop the scallions. Deseed and finely chop the peppers, and grate the carrot. Finely chop the mushrooms. Remove the nub at the end of the pak choi and finely chop the rest.",
+        "Put the oil into a non-stick large-bottomed pan (ideally a wok) on a high heat. Add the garlic, ginger and chilli, and cook for 1 minute, stirring regularly. Add the scallions, peppers, grated carrot and mushrooms and cook for a further 1½ minutes, stirring all the time.",
+        "In a cup, use a fork to mix together the dressing ingredients (don’t worry if the coconut milk stays a bit lumpy – the mixture will break up once it’s added to the pan). Add the dressing to the pan and stir right through so that it coats all the veg really well.",
+        "Next, throw in your noodles and heat for a minute. Add the pak choi or spinach and cook for another minute, until wilting."
+    ]
+}

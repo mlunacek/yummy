@@ -1,0 +1,23 @@
+{
+    "title": "Roasted Veggies with Hummus sauce",
+    "time": "30 minutes",
+    "source": "Five Second Health",
+    "url": "https://www.youtube.com/watch?v=64nUoF3NLKc",
+    "ingredients": [
+        {"name": "carrots", "quantity": 2, "unit": ""},
+        {"name": "potatoes", "quantity": 3, "unit": ""},
+        {"name": "brussel sprouts", "quantity": 10, "unit": ""},
+        {"name": "chickpeas", "quantity": 1, "unit": "can"},
+        {"name": "hummus", "quantity": 0.25, "unit": "cup"},
+        {"name": "curry", "quantity": 0.5, "unit": "tsp"},
+        {"name": "lemon", "quantity": 0.5, "unit": ""},
+        {"name": "sea salt", "quantity": 0.25, "unit": "tsp"},
+        {"name": "black pepper", "quantity": 0.25, "unit": "tsp"},
+        {"name": "maple syrup", "quantity": 1, "unit": "tbsp"}
+    ],
+    "process": [
+        "Cut and roast veggies.",
+        "Make sauce: hummus (1/4 cup) + curry (1/2 tsp) + lemon juice (1/2) + sea salt (1/4 tsp) + maple syrup (1 tbsp).  Add water to thin if needed.",
+        "Serve over greens or grains, garnish with seeds."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Cauliflower and Pea Korma",
+    "source": "Happy Pear: Recipes for Happiness",
+    "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
+    "time": "15 minutes",
+    "ingredients": [
+        {"name": "frozen peas", "quantity": 9, "unit": "oz"},
+        {"name": "garlic", "quantity": 3, "unit": "glove"},
+        {"name": "ginger", "quantity": 1, "unit": "thumb-size"},
+        {"name": "scallions", "quantity": 4, "unit": ""},
+        {"name": "red chilli", "quantity": 1, "unit": ""},
+        {"name": "cauliflower", "quantity": 1, "unit": "head"},
+        {"name": "red pepper", "quantity": 1, "unit": ""},
+        {"name": "cumin seeds", "quantity": 1, "unit": "tsp"},
+        {"name": "coconut milk", "quantity": 1, "unit": "can"},
+        {"name": "fire-roasted tomatoes", "quantity": 1, "unit": "can"},
+        {"name": "curry", "quantity": 1.5, "unit": "tbsp"},
+        {"name": "pepper", "quantity": 1.5, "unit": "tsp"},
+        {"name": "sea salt", "quantity": 1.5, "unit": "tsp"},
+        {"name": "maple syrup", "quantity": 1, "unit": "tbsp"},
+        {"name": "lime", "quantity": 1, "unit": ""}
+    ],
+    "process": [
+        "Put the frozen peas into a bowl of boiling water to thaw.",
+        "Peel and finely chop the garlic and ginger. Finely slice the chilli, removing the seeds if you don’t like it too spicy. Finely slice the scallions. Cut the cauliflower/broccoli florets off the stalk and chop them into small bite-size pieces. Dessed and finely chop the red pepper.",
+        "Put the oil into a large pan over a high heat. Once the pan is hot, add the garlic, ginger, chilli and scallions and cook for 1½ minutes, stirring regularly.",
+        "Next, add the cauliflower/broccoli, red pepper and cumin seeds and cook for 2 minutes, stirring regularly. Drain the peas and add these along with the remaining korma ingredients, bring to the boil, then reduce to a simmer for 2 minutes.",
+        "Remove from the heat. Roughly chop the coriander and sprinkle over each serving, along with some flaked almonds and our old favourite – chilli flakes!"        
+    ]
+}

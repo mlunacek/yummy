@@ -1,0 +1,32 @@
+{
+    "title": "Peanut Coconut Curry",
+    "time": "20 minutes",
+    "source": "Happy Pear: Recipes for Happiness",
+    "url": "https://www.amazon.com/Happy-Pear-Recipes-Happiness/dp/1844884252/ref=sr_1_1?crid=3RNI8TSS2KNUH&dchild=1&keywords=happy+pear+recipes+for+happiness&qid=1610663178&sprefix=happy+pear%3A+re%2Caps%2C191&sr=8-1",
+    "ingredients": [
+        {"name": "garlic", "quantity": 3, "unit": "glove"},
+        {"name": "ginger", "quantity": 1, "unit": "thumb-size"},
+        {"name": "broccoli", "quantity": 1, "unit": "head"},
+        {"name": "scallions", "quantity": 4, "unit": ""},
+        {"name": "zucchini", "quantity": 1, "unit": ""},
+        {"name": "red pepper", "quantity": 1, "unit": ""},
+        {"name": "chilli pepper", "quantity": 1, "unit": ""},
+        {"name": "lime", "quantity": 1, "unit": ""},
+        {"name": "coconut milk", "quantity": 1, "unit": "can"},
+        {"name": "tamari", "quantity": 3, "unit": "tbsp"},
+        {"name": "peanut butter", "quantity": 3, "unit": "tbsp"},
+        {"name": "maple syrup", "quantity": 1, "unit": "tbsp"},
+        {"name": "sesame oil", "quantity": 1, "unit": "tbsp"},
+        {"name": "whole wheat noodles", "quantity": 8, "unit": "oz"}
+    ],
+    "process": [
+        "Start cooking noodles.",
+        "Chop veggies.",
+        "Add garlic, ginger, scallions, chilli pepper to pan on high heat with oil.",
+        "Add red pepper, zucchini",
+        "Add broccoli to noodles pot",
+        "The sauce: peanut butter (3 tbsp), maple syrup (1 tbsp), tamari (3 tbsp)",
+        "Add noodles and broccoli to pan",
+        "Add coconut milk"
+    ]
+}
