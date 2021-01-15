@@ -1,6 +1,8 @@
 {
     "title": "Creamy Tomato Pasta",
     "time": "15 minutes",
+    "servings": 4,
+    "kind": "Dinner",
     "stars": "",
     "source": "Happy Pear",
     "url": "https://thehappypear.ie/recipes/one-pot-wonder-creamy-tomato-pasta/",
@@ -10,7 +12,7 @@
         {"name": "eggplant", "quantity": 1, "unit": ""},
         {"name": "whole wheat noodles", "quantity": 16, "unit": "oz"},
         {"name": "fire-roasted tomatoes", "quantity": 2, "unit": "can"},
-        {"name": "tomato puree", "quantity": 3.5, "unit": "oz"},
+        {"name": "tomato paste", "quantity": 3.5, "unit": "oz"},
         {"name": "maple syrup", "quantity": 1, "unit": "tbsp"},
         {"name": "tamari", "quantity": 4, "unit": "tbsp"},
         {"name": "black pepper", "quantity": 0.25, "unit": "tsp"},

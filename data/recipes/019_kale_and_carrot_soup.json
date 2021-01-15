@@ -1,0 +1,28 @@
+{
+    "title": "Kale and Carrot Soup",
+    "servings": 4,
+    "kind": "Lunch",
+    "time": "15 minutes",
+    "source": "Prolon",
+    "url": "https://api.medprowellness.com/documents/prolon-transition-day-meal-guide/prolontransitiondaymealguide20190307142050.pdf",
+    "ingredients": [
+        {"name": "kale", "quantity": 1, "unit": "cup"},
+        {"name": "carrots", "quantity": 2, "unit": ""},
+        {"name": "celery", "quantity": 1, "unit": ""},
+        {"name": "chickpeas", "quantity": 1, "unit": "can"},
+        {"name": "mushrooms", "quantity": 4, "unit": "oz"},
+        {"name": "onion", "quantity": 0.5, "unit": ""},
+        {"name": "garlic", "quantity": 5, "unit": "cloves"},
+        {"name": "lemon", "quantity": 1, "unit": ""},
+        {"name": "vegetable broth", "quantity": 4, "unit": "cups"},
+        {"name": "red pepper flakes", "quantity": 1, "unit": "tbsp"},
+        {"name": "turmeric", "quantity": 0.5, "unit": "tsp"}
+    ],
+    "process": [
+        "In a large pot, heat olive oil on medium-high heat and sauté onion, celery and carrots for minutes. Then add mushrooms, garlic, and continue to stir for an additional 3 minutes.",
+        "Stir in vegetable stock, lemon juice, peppers, turmeric, salt and chickpeas. Cover and turn heat to simmer for 15 minutes.",
+        "Add kale and simmer for an additional 3-5 minutes.",
+        "Garnish your bowl of soup with a slice of lemon and added pepper flakes if you want to spice things up. ",
+        "Enjoy! "
+    ]
+}

@@ -5,40 +5,77 @@
             <div class="container is-fluid">
                     <!-- <div v-for="(recipe, index) in recipes" :key="index"> -->
 
- <table class="table is-bordered ">
+<div class="subtitle">
+    Breakfast
+</div> 
+ <table class="table is-bordered is-fullwidth is-narrow">
     <tbody>
-        <tr v-for="(recipe, index) in recipes" :key="index">
-         
-            <!-- <td >
-                <figure class="image is-48x48">
-                    <router-link :to="{name:'recipe', params:{id:recipe.id}}">
-                        <img :src="recipe.image" >
-                    </router-link>
-                </figure>
-            </td>     -->
-
-            <td width=40>    
+        <tr v-for="(recipe) in this.breakfast" :key="recipe.title">
+            <td>    
                 <label class="checkbox">
                     <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
                 </label>
             </td>    
-
             <td>  
-
-                <div class='row'>
+                <!-- <div class="row"> -->
                 <router-link :to="{name:'recipe', params:{id:recipe.id}}" >
                                 {{recipe.title}}
                 </router-link>
-                </div>
+                <!-- </div> -->
             </td>
-
-       
-
         </tr>
     </tbody>
 </table>
 
-                     
+<div class="subtitle">
+    Lunch
+</div>  
+ <table class="table is-bordered is-fullwidth is-narrow">
+    <tbody>
+        <tr v-for="(recipe) in this.lunch" :key="recipe.title">
+            <td>    
+                <label class="checkbox">
+                    <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
+                </label>
+            </td>    
+            <td>  
+                <!-- <div class="row"> -->
+                <router-link :to="{name:'recipe', params:{id:recipe.id}}" >
+                                {{recipe.title}}
+                </router-link>
+                <!-- </div> -->
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="subtitle">
+    Dinner
+</div>  
+ <table class="table is-bordered is-fullwidth is-narrow">
+    <tbody>
+        <tr v-for="(recipe) in this.dinner" :key="recipe.title">
+            <td>    
+                <label class="checkbox">
+                    <input type="checkbox" v-model="recipe.active" @click="toggleRecipe(recipe.id)">
+                </label>
+            </td>    
+            <td>  
+                <!-- <div class="row"> -->
+                <router-link :to="{name:'recipe', params:{id:recipe.id}}" >
+                    {{recipe.title}}
+                </router-link>
+                <!-- </div> -->
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<br>
+<br>
+<br>
+<br>                
                   
                                     
                       
@@ -65,10 +102,28 @@ export default {
             get () {
                 return this.$store.getters.recipes();
             },
-            // set (value) {
-            //     this.$store.dispatch('updateRecipes', value)
-            // }
         },
+        breakfast: {
+            get(){
+                return this.$lodash.filter(this.recipes, function(d){
+                    return d['kind'] === "breakfast"
+                })
+            },
+        },
+        lunch: {
+            get(){
+                return this.$lodash.filter(this.recipes, function(d){
+                    return d['kind'] === "lunch"
+                })
+            },
+        },
+        dinner: {
+            get(){
+                return this.$lodash.filter(this.recipes, function(d){
+                    return d['kind'] === "dinner"
+                })
+            },
+        }
     },
 
 }
@@ -77,7 +132,7 @@ export default {
 <style scoped>
 .checkbox{
     float: left;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     padding: 0;
     margin-bottom: 0px;
     margin-left: 0px;

@@ -1,6 +1,10 @@
 {
     "title": "",
+    "servings": 4,
+    "kind": "Dinner",
     "time": "",
+    "source": "",
+    "url": "",
     "ingredients": [
         {"name": "", "quantity": 1, "unit": ""},
         {"name": "", "quantity": 1, "unit": ""},

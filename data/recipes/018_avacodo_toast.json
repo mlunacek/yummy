@@ -1,0 +1,21 @@
+{
+    "title": "Avocado Toast",
+    "servings": 4,
+    "kind": "Breakfast",
+    "time": "10 minutes",
+    "source": "Prolon",
+    "url": "https://api.medprowellness.com/documents/prolon-transition-day-meal-guide/prolontransitiondaymealguide20190307142050.pdf",
+    "ingredients": [
+        {"name": "avocado", "quantity": 2, "unit": ""},
+        {"name": "lemon", "quantity": 1, "unit": ""},
+        {"name": "whole-wheat bread", "quantity": 4, "unit": "slices"},
+        {"name": "red pepper flakes", "quantity": 1, "unit": "tbsp"},
+        {"name": "olive oil", "quantity": 2, "unit": "tsp"}
+    ],
+    "process": [
+        "Scoop out half an avocado into a medium-sized bowl and mash in the pepper flakes, lemon juice, and olive oil. Try to keep consistency chunky, not smooth.",
+        "Toast your bread in the toaster or toaster oven.",
+        "Spread avocado mix on the toast and garnish with excess lemon and pepper flakes.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Green Smoothie",
+    "servings": 4,
+    "kind": "Breakfast",
+    "time": "5 minutes",
+    "source": "Joy Food Sunshine",
+    "url": "https://joyfoodsunshine.com/green-smoothie/",
+    "ingredients": [
+        {"name": "kale", "quantity": 4, "unit": "cup"},
+        {"name": "alternative milk", "quantity": 4, "unit": "cup"},
+        {"name": "banana", "quantity": 4, "unit": ""},
+        {"name": "blueberries", "quantity": 4, "unit": "oz"},
+        {"name": "celery", "quantity": 4, "unit": ""}
+    ],
+    "process": [
+        "Add all to Vitamix and enjoy!"
+    ]
+}

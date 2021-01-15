@@ -1,0 +1,29 @@
+{
+    "title": "No Tuna Sandwich",
+    "servings": 4,
+    "kind": "Lunch",
+    "time": "15 minutes",
+    "source": "Forks Over Knives",
+    "url": "https://www.forksoverknives.com/recipes/vegan-burgers-wraps/vegan-no-tuna-salad-sandwich/",
+    "ingredients": [
+        {"name": "chickpeas", "quantity": 1, "unit": "can"},
+        {"name": "tahini", "quantity": 3, "unit": "tbsp"},
+        {"name": "spicy brown mustard", "quantity": 1, "unit": "tsp"},
+        {"name": "maple syrup", "quantity": 1, "unit": "tsp"},
+        {"name": "red onion", "quantity": 0.5, "unit": ""},
+        {"name": "celery", "quantity": 1, "unit": ""},
+        {"name": "pickle", "quantity": 2, "unit": ""},
+        {"name": "capers", "quantity": 1, "unit": "tsp"},
+        {"name": "sunflower seeds", "quantity": 1, "unit": "tbsp"},
+        {"name": "whole-wheat bread", "quantity": 8, "unit": "slices"},
+        {"name": "baby spinach", "quantity": 4, "unit": "oz"},
+        {"name": "cherry tomatoes", "quantity": 16, "unit": ""}
+
+    ],
+    "process": [
+        "Place the chickpeas in a mixing bowl and mash with a fork, leaving only a few beans whole.",
+        "Add tahini, mustard, maple syrup, red onion, celery, pickle, capers, salt and pepper, and sunflower seeds (if using) to mixing bowl. Mix to incorporate. Taste and adjust seasonings as needed.",
+        "Toast bread if desired, and prepare any other desired sandwich toppings (such as lettuce, tomato, and onion).",
+        "Scoop a healthy amount of the chickpea mixture (about ½ cup) onto one slice of bread, add desired toppings and top with second slice of bread. Repeat for additional sandwiches."
+    ]
+}

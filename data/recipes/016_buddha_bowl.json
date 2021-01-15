@@ -1,5 +1,7 @@
 {
     "title": "Buddha Bowl",
+    "servings": 4,
+    "kind": "Dinner",
     "time": "30 minutes",
     "ingredients": [
         {"name": "cilantro", "quantity": 0.5, "unit": "bunch"},

@@ -14,19 +14,20 @@
                     <div class="subtitle titleadjust" v-if="this.recipe">
                         {{ this.recipe.title }}
                     </div>
-
                 </div>
-
             </div>
 
             <div class="columns is-desktop">
 
                 <div class="column is-third-desktop is-mobile">
                     <figure class="image">
-                            <img :src="recipe.image" >
-                    </figure>        
+                            <img :src="this.recipe.image" >
+                    </figure>    
+                    <br>  
+                    <p> Source <a v-bind:href="this.recipe.url">
+                        {{this.recipe.source}}</a></p> 
                 </div>
-
+                
                 <div class="column is-third-desktop is-mobile">
             
                     <div class="subtitle">
@@ -41,11 +42,45 @@
 
                 <div class="column is-third-desktop is-mobile">
                     <div class="subtitle">
-                        Process
+                        Ingredients
                     </div>  
-                    <table class="table is-bordered">
+
+                    <div class="">
+                        Fresh
+                    </div>  
+
+                    <table class="table is-bordered is-fullwidth">
                     <tbody>
-                        <tr v-for="step in this.ingredients" :key="step.name">
+                        <tr v-for="step in this.fresh" :key="step.name">
+                            <td> {{step.name}} </td>
+                            <td> {{step.quantity}} </td>
+                            <td> {{step.unit}} </td>
+                        </tr>
+
+                    </tbody>
+                    </table>
+
+                    <div class="">
+                        Spices
+                    </div>  
+
+                    <table class="table is-bordered is-fullwidth">
+                    <tbody>
+                        <tr v-for="step in this.spice" :key="step.name">
+                            <td> {{step.name}} </td>
+                            <td> {{step.quantity}} </td>
+                            <td> {{step.unit}} </td>
+                        </tr>
+
+                    </tbody>
+                    </table>
+
+                    <div class="">
+                        Other
+                    </div>  
+                    <table class="table is-bordered is-fullwidth">
+                    <tbody>
+                        <tr v-for="step in this.other" :key="step.name">
                             <td> {{step.name}} </td>
                             <td> {{step.quantity}} </td>
                             <td> {{step.unit}} </td>
@@ -59,6 +94,11 @@
             </div>
 
         </div>
+<br>
+<br>
+<br>
+<br>
+
 
 
       </section>
@@ -89,7 +129,29 @@ export default {
             get () {
                 return this.$store.getters.recipe(this.$route.params.id)['ingredients'];
             }
-        }
+        },
+
+        fresh: {
+            get(){
+                return this.$lodash.filter(this.ingredients, function(d){
+                    return d['category'] === "fresh"
+                });
+            }
+        },
+        other: {
+            get(){
+                return this.$lodash.filter(this.ingredients, function(d){
+                    return !['fresh', 'spice'].includes(d['category'])
+                });
+            }
+        },
+        spice: {
+            get(){
+                return this.$lodash.filter(this.ingredients, function(d){
+                    return d['category'] === "spice"
+                });
+            }
+        },
     },
    
 }

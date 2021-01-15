@@ -57,6 +57,7 @@ export default function makeStore(){
 
                 for (let i = 0; i < data.length; i++) {
                     data[i]['id'] = i;
+                    data[i]['active'] = false;
                 }
                 
                 if( data.length == local_store['recipes'].length){
@@ -97,7 +98,9 @@ export default function makeStore(){
 
                         combined[ingredients[j]['name']] = {'quantity': ingredients[j]['quantity'] + current,
                                                             'unit': ingredients[j]['unit'],
+                                                            'category': ingredients[j]['category'],
                                                             'active': active,
+                                                            'name': ingredients[j]['name'],
                                                             }
                     }
                 }

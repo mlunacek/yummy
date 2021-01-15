@@ -1,0 +1,512 @@
+{
+    "garlic": {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "glove",
+        "category": "fresh"
+    },
+    "ginger": {
+        "name": "ginger",
+        "quantity": 1,
+        "unit": "thumb-size",
+        "category": "fresh"
+    },
+    "broccoli": {
+        "name": "broccoli",
+        "quantity": 1,
+        "unit": "head",
+        "category": "fresh"
+    },
+    "scallions": {
+        "name": "scallions",
+        "quantity": 4,
+        "unit": "",
+        "category": "fresh"
+    },
+    "zucchini": {
+        "name": "zucchini",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "red pepper": {
+        "name": "red pepper",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "chilli pepper": {
+        "name": "chilli pepper",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "lime": {
+        "name": "lime",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "coconut milk": {
+        "name": "coconut milk",
+        "quantity": 1,
+        "unit": "can",
+        "category": ""
+    },
+    "tamari": {
+        "name": "tamari",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "peanut butter": {
+        "name": "peanut butter",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": ""
+    },
+    "maple syrup": {
+        "name": "maple syrup",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "sesame oil": {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "whole wheat noodles": {
+        "name": "whole wheat noodles",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "grains"
+    },
+    "mushrooms": {
+        "name": "mushrooms",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "fresh"
+    },
+    "carrots": {
+        "name": "carrots",
+        "quantity": 3,
+        "unit": "",
+        "category": "fresh"
+    },
+    "brown rice": {
+        "name": "brown rice",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "grains"
+    },
+    "celery": {
+        "name": "celery",
+        "quantity": 4,
+        "unit": "",
+        "category": "fresh"
+    },
+    "onion": {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "vegetable broth": {
+        "name": "vegetable broth",
+        "quantity": 6,
+        "unit": "cups",
+        "category": ""
+    },
+    "tomato paste": {
+        "name": "tomato paste",
+        "quantity": 1,
+        "unit": "can",
+        "category": ""
+    },
+    "fire-roasted tomatoes": {
+        "name": "fire-roasted tomatoes",
+        "quantity": 1,
+        "unit": "can",
+        "category": ""
+    },
+    "chickpeas": {
+        "name": "chickpeas",
+        "quantity": 1,
+        "unit": "can",
+        "category": ""
+    },
+    "pasta": {
+        "name": "pasta",
+        "quantity": 2,
+        "unit": "cups",
+        "category": ""
+    },
+    "kale": {
+        "name": "kale",
+        "quantity": 3,
+        "unit": "cups",
+        "category": "fresh"
+    },
+    "oregano": {
+        "name": "oregano",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "basil": {
+        "name": "basil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "red pepper flakes": {
+        "name": "red pepper flakes",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "jalapeno": {
+        "name": "jalapeno",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "curry": {
+        "name": "curry",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "salt": {
+        "name": "salt",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "pepper": {
+        "name": "pepper",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "lentils": {
+        "name": "lentils",
+        "quantity": 1,
+        "unit": "can",
+        "category": ""
+    },
+    "cherry tomatoes": {
+        "name": "cherry tomatoes",
+        "quantity": 15,
+        "unit": "",
+        "category": "fresh"
+    },
+    "baby spinach": {
+        "name": "baby spinach",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "fresh"
+    },
+    "cumin": {
+        "name": "cumin",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "frozen peas": {
+        "name": "frozen peas",
+        "quantity": 9,
+        "unit": "oz",
+        "category": "frozen"
+    },
+    "red chilli": {
+        "name": "red chilli",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "cauliflower": {
+        "name": "cauliflower",
+        "quantity": 1,
+        "unit": "head",
+        "category": "fresh"
+    },
+    "cumin seeds": {
+        "name": "cumin seeds",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "sea salt": {
+        "name": "sea salt",
+        "quantity": 1.5,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "yellow pepper": {
+        "name": "yellow pepper",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "carrot": {
+        "name": "carrot",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "baby bok choi": {
+        "name": "baby bok choi",
+        "quantity": 4,
+        "unit": "",
+        "category": "fresh"
+    },
+    "eggplant": {
+        "name": "eggplant",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "black pepper": {
+        "name": "black pepper",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "alternative milk": {
+        "name": "alternative milk",
+        "quantity": 16,
+        "unit": "oz",
+        "category": ""
+    },
+    "cashew": {
+        "name": "cashew",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "nuts"
+    },
+    "garlic powder": {
+        "name": "garlic powder",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "lemon": {
+        "name": "lemon",
+        "quantity": 0.5,
+        "unit": "",
+        "category": "fresh"
+    },
+    "roasted red peppers": {
+        "name": "roasted red peppers",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "spice"
+    },
+    "whole wheat tortillas": {
+        "name": "whole wheat tortillas",
+        "quantity": 4,
+        "unit": "",
+        "category": "grains"
+    },
+    "black beans": {
+        "name": "black beans",
+        "quantity": 1,
+        "unit": "can",
+        "category": "cans"
+    },
+    "red onion": {
+        "name": "red onion",
+        "quantity": 0.5,
+        "unit": "",
+        "category": "fresh"
+    },
+    "avocado": {
+        "name": "avocado",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "cumin seed": {
+        "name": "cumin seed",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "coriander": {
+        "name": "coriander",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "smoked paprika": {
+        "name": "smoked paprika",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "cinnamon": {
+        "name": "cinnamon",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "tumeric": {
+        "name": "tumeric",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "green pepper": {
+        "name": "green pepper",
+        "quantity": 1,
+        "unit": "",
+        "category": "spice"
+    },
+    "red wine": {
+        "name": "red wine",
+        "quantity": 4,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "banana": {
+        "name": "banana",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "blueberries": {
+        "name": "blueberries",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "fresh"
+    },
+    "potatoes": {
+        "name": "potatoes",
+        "quantity": 3,
+        "unit": "",
+        "category": "fresh"
+    },
+    "brussel sprouts": {
+        "name": "brussel sprouts",
+        "quantity": 10,
+        "unit": "",
+        "category": "fresh"
+    },
+    "hummus": {
+        "name": "hummus",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": ""
+    },
+    "red curry paste": {
+        "name": "red curry paste",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spice"
+    },
+    "red lentils": {
+        "name": "red lentils",
+        "quantity": 1,
+        "unit": "cup",
+        "category": ""
+    },
+    "red cabbage": {
+        "name": "red cabbage",
+        "quantity": 0.25,
+        "unit": "head",
+        "category": "fresh"
+    },
+    "cilantro": {
+        "name": "cilantro",
+        "quantity": 0.5,
+        "unit": "bunch",
+        "category": "fresh"
+    },
+    "steel cut oats": {
+        "name": "steel cut oats",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "grains"
+    },
+    "flaxseed": {
+        "name": "flaxseed",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": ""
+    },
+    "almond butter": {
+        "name": "almond butter",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "nuts"
+    },
+    "cucumber": {
+        "name": "cucumber",
+        "quantity": 1,
+        "unit": "",
+        "category": "fresh"
+    },
+    "organic tofu": {
+        "name": "organic tofu",
+        "quantity": 1,
+        "unit": "block",
+        "category": ""
+    },
+    "quinoa": {
+        "name": "quinoa",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "grains"
+    },
+    "tahini": {
+        "name": "tahini",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": ""
+    },
+    "spicy brown mustard": {
+        "name": "spicy brown mustard",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": ""
+    },
+    "pickle": {
+        "name": "pickle",
+        "quantity": 2,
+        "unit": "",
+        "category": ""
+    },
+    "capers": {
+        "name": "capers",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spice"
+    },
+    "sunflower seeds": {
+        "name": "sunflower seeds",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "nuts"
+    },
+    "whole-wheat bread": {
+        "name": "whole-wheat bread",
+        "quantity": 8,
+        "unit": "slices",
+        "category": "grain"
+    },
+    "olive oil": {
+        "name": "olive oil",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": ""
+    },
+    "turmeric": {
+        "name": "turmeric",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "category": ""
+    }
+}

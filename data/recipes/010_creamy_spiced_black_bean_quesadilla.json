@@ -1,6 +1,8 @@
 {
     "title": "Creamy spiced black bean quesadilla",
     "time": "20 minutes",
+    "servings": 4,
+    "kind": "Dinner",
     "source": "Happy Pear",
     "url": "https://thehappypear.ie/recipes/creamy-spiced-black-bean-quesadilla/",
     "ingredients": [
@@ -21,7 +23,7 @@
         {"name": "tamari", "quantity": 1, "unit": "tbsp"},
         {"name": "lime", "quantity": 0.5, "unit": ""},
         {"name": "lemon", "quantity": 0.5, "unit": ""},
-        {"name": "cashews", "quantity": 8, "unit": "oz"},
+        {"name": "cashew", "quantity": 8, "unit": "oz"},
         {"name": "alternative milk", "quantity": 5, "unit": "oz"}
     ],
     "process": [

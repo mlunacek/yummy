@@ -1,11 +1,13 @@
 {
     "title": "Creamy Red Pepper Pasta",
+    "servings": 4,
+    "kind": "Dinner",
     "time": "20 minutes",
     "source": "Happy Pear",
     "url": "https://thehappypear.ie/recipes/creamy-red-pepper-and-basil-pasta-dinner/",
     "ingredients": [
         {"name": "whole wheat noodles", "quantity": 10, "unit": "oz"},
-        {"name": "cashew nuts", "quantity": 4, "unit": "oz"},
+        {"name": "cashew", "quantity": 4, "unit": "oz"},
         {"name": "garlic powder", "quantity": 1, "unit": "tsp"},
         {"name": "lemon", "quantity": 0.5, "unit": ""},
         {"name": "roasted red peppers", "quantity": 4, "unit": "oz"},
