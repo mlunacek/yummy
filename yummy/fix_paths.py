@@ -11,4 +11,4 @@ for item in data:
     print(item['image'])
 
 with open("../docs/recipes.json", "w") as outfile:
-    outfile.write(json.dumps(data))
+    outfile.write(json.dumps(data, indent=4))
