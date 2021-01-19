@@ -1650,5 +1650,202 @@
         ],
         "image": "/yummy/images/019_kale_and_carrot_soup.png",
         "active": "false"
+    },
+    {
+        "title": "Red Lentils and Sweet Potato Curry",
+        "servings": 4,
+        "kind": "dinner",
+        "time": "60 minutes",
+        "source": "New York Times",
+        "url": "https://cooking.nytimes.com/recipes/1020766-red-curry-lentils-with-sweet-potatoes-and-spinach?campaign_id=9&emc=edit_nn_20210119&instance_id=26150&nl=the-morning&regi_id=68350131&segment_id=49657&te=1&user_id=4a4ade795a3bfd80a81ec6a030b6552c",
+        "ingredients": [
+            {
+                "name": "sweet potato",
+                "quantity": 2,
+                "unit": "",
+                "category": ""
+            },
+            {
+                "name": "onion",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "red curry paste",
+                "quantity": 1,
+                "unit": "",
+                "category": "spice"
+            },
+            {
+                "name": "garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "category": "fresh"
+            },
+            {
+                "name": "ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "category": "fresh"
+            },
+            {
+                "name": "red chile",
+                "quantity": 1,
+                "unit": "",
+                "category": ""
+            },
+            {
+                "name": "turmeric",
+                "quantity": 1,
+                "unit": "tsp",
+                "category": ""
+            },
+            {
+                "name": "red lentils",
+                "quantity": 1,
+                "unit": "cup",
+                "category": ""
+            },
+            {
+                "name": "vegetable broth",
+                "quantity": 2,
+                "unit": "cups",
+                "category": ""
+            },
+            {
+                "name": "coconut milk",
+                "quantity": 1,
+                "unit": "can",
+                "category": ""
+            },
+            {
+                "name": "baby spinach",
+                "quantity": 4,
+                "unit": "oz",
+                "category": "fresh"
+            },
+            {
+                "name": "lime",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "cilantro",
+                "quantity": 0.5,
+                "unit": "bunch",
+                "category": "fresh"
+            }
+        ],
+        "summary": "In this vegetarian main inspired by Indian dal, lentils are cooked with an aromatic blend of Thai spices \u2014 fresh ginger, turmeric, red curry paste and chile \u2014 then simmered in coconut milk until fall-apart tender. Browning the sweet potatoes before cooking them with the lentils brings out their sweetness, balancing the heat from the chile and curry paste, while baby spinach tossed in just before serving adds fresh flavor. Serve over steamed white or brown rice, or with toasted flatbread on the side.",
+        "process": [
+            "In a Dutch oven or pot, heat 2 tablespoons olive oil over medium-high. Add the sweet potatoes (peeled and cut into 3/4-inch cubes) and cook, stirring occasionally, until browned all over, 5 to 7 minutes. Transfer the browned sweet potatoes to a plate and set aside.",
+            "Add the remaining 1 tablespoon olive oil to the pot and set the heat to medium-low. Add the onion and cook, stirring occasionally, until translucent, 4 to 6 minutes. Add the curry paste, garlic, ginger, chile and turmeric, and cook until fragrant, about 1 minute.",
+            "Add the lentils, stock, salt and browned sweet potatoes to the pot and bring to a boil over high. Lower the heat and simmer, uncovered, stirring occasionally, until the lentils are just tender, 20 to 25 minutes.",
+            "Add the coconut milk and simmer, stirring occasionally, until the liquid has reduced and the lentils are creamy and falling apart, 15 to 20 minutes.",
+            "Add the spinach and stir until just wilted, 2 to 3 minutes. Off the heat, stir in the lime juice and season with salt to taste.",
+            "Divide among shallow bowls and top with cilantro and coconut flakes, if using."
+        ],
+        "image": "/yummy/images/020_red_lentils_and_sweet_potato_curry.png",
+        "active": "false"
+    },
+    {
+        "title": "Fresh Salsa Tacos",
+        "servings": 4,
+        "kind": "dinner",
+        "time": "30 minutes",
+        "source": "",
+        "url": "",
+        "ingredients": [
+            {
+                "name": "black beans",
+                "quantity": 1,
+                "unit": "can",
+                "category": "cans"
+            },
+            {
+                "name": "garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "category": "fresh"
+            },
+            {
+                "name": "red pepper",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "yellow pepper",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "cumin",
+                "quantity": 1,
+                "unit": "tbsp",
+                "category": "spice"
+            },
+            {
+                "name": "lime",
+                "quantity": 1,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "cherry tomatoes",
+                "quantity": 15,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "avocado",
+                "quantity": 2,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "red onion",
+                "quantity": 0.5,
+                "unit": "",
+                "category": "fresh"
+            },
+            {
+                "name": "tacos",
+                "quantity": 6,
+                "unit": "",
+                "category": ""
+            },
+            {
+                "name": "red chile",
+                "quantity": 1,
+                "unit": "",
+                "category": ""
+            },
+            {
+                "name": "tamari",
+                "quantity": 3,
+                "unit": "tbsp",
+                "category": "spice"
+            },
+            {
+                "name": "cilantro",
+                "quantity": 0.5,
+                "unit": "bunch",
+                "category": "fresh"
+            }
+        ],
+        "process": [
+            "In a pan, heat the minced garlic and red chile",
+            "Then add the red and yellow peppers, beans, and cumin. Cook for a few minutes",
+            "Add the tamari and let simmer.",
+            "The salsa: 1/2 red onion + cherry tomatoes + lime + cilantro.  You can add the avocado separately if you'd like to have left-overs.",
+            "Add the bean mix to a taco and top with fresh salsa.",
+            "Enjoy!"
+        ],
+        "image": "/yummy/images/021_tacos.png",
+        "active": "false"
     }
 ]
