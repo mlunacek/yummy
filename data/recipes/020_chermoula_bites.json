@@ -1,0 +1,23 @@
+{
+    "title": "Chermoula Tempeh Bites",
+    "servings": 6,
+    "kind": "Lunch",
+    "time": "2 hours",
+    "source": "Afro-vegan",
+    "url": "https://www.amazon.com/Afro-Vegan-Farm-Fresh-African-Caribbean-Southern/dp/1607745313/ref=sr_1_1?dchild=1&keywords=afro+vegan&qid=1614468467&sr=8-1",
+    "ingredients": [
+        {"name": "EVOO", "quantity": 6, "unit": "tbsp"},
+        {"name": "tempeh", "quantity": 1, "unit": "lb"},
+        {"name": "vegetable stock", "quantity": 2, "unit": "cups"},
+        {"name": "Chermoula", "quantity": 1.5, "unit": "cups"},
+        {"name": "coarse sea salt", "quantity": 0.5, "unit": "tsp"}
+    ],
+    "process": [
+        "Prepare Chermoula (see recipe).",
+        "Cut tempeh into 1/2-inch cubes.",
+        "Warm 1 tbsp olive oil in skillet over medium-high heat. Brown the cubed tempeh on all six sides adding more olive oil as needed.",
+        "Boil stock and Chermoula. Then pour 3/4 of the mixture over tempeh in a 2-quart baking dish, cover, and bake for 1-hour.",
+        "Remove cover and add remaining Chermoula mixture, bake for 10-minutes.",
+        "Serve at room temperature."
+    ]
+}

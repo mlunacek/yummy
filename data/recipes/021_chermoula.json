@@ -1,0 +1,33 @@
+{
+    "title": "Chermoula Tempeh Bites",
+    "servings": 6,
+    "kind": "Lunch",
+    "time": "15 minutes",
+    "source": "Afro-vegan",
+    "url": "https://www.amazon.com/Afro-Vegan-Farm-Fresh-African-Caribbean-Southern/dp/1607745313/ref=sr_1_1?dchild=1&keywords=afro+vegan&qid=1614468467&sr=8-1",
+    "ingredients": [
+        {"name": "EVOO", "quantity": 3, "unit": "tbsp", "prep": ""},
+        {"name": "red onion", "quantity": 0.5, "unit": "cup", "prep": "finely chopped"},
+        {"name": "coarse sea salt", "quantity": 1, "unit": "tsp", "prep": ""},
+        {"name": "garlic", "quantity": 3, "unit": "cloves", "prep": "minced"},
+        {"name": "cumin seeds", "quantity": 1.5, "unit": "tsp", "prep": "toasted, ground"},
+        {"name": "paprika", "quantity": 0.5, "unit": "tsp", "prep": ""},
+        {"name": "black pepper", "quantity": 0.25, "unit": "tsp", "prep": "ground"},
+        {"name": "cayenne pepper", "quantity": 0.125, "unit": "tsp", "prep": ""},
+        {"name": "lemon juice", "quantity": 3, "unit": "tbsp", "prep": "fresh squeezed"},
+        {"name": "orange juice", "quantity": 1, "unit": "tbsp", "prep": "fresh squeezed"},
+        {"name": "water", "quantity": 2, "unit": "tbsp", "prep": ""},
+        {"name": "habanero chile", "quantity": 0.25, "unit": "tsp", "prep": "minced"},
+        {"name": "safron", "quantity": 1, "unit": "pinch of threads", "prep": "crumbled"},
+        {"name": "cilantro", "quantity": 1.25, "unit": "cups", "prep": "packed, minced"},
+        {"name": "flat-leaf parsley", "quantity": 0.5, "unit": "", "prep": "fresh, packed, minced"}
+    ],
+    "process": [
+        "Saute onion and salt until soft.",
+        "Add garlic, cumin, paprika, black pepper, and cayenne. Saut about 2 minutes.",
+        "Remove from heat to cool for about 5 minutes.",
+        "Mix in lemon juice, orange joice, water, habanero, and saffron.",
+        "Stirn in cilantro and parsley.",
+        "Season with salt to taste."
+    ]
+}
